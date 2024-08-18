@@ -43,7 +43,7 @@
 #### Exercise 8: Association rule mining
 **Programming Language** : R Markdown
 
-**Link to knitted PDF** : https://github.com/GreeshmaGopinathan/ML_Assignments_v1/blob/main/ARules3_PDF.pdf
+**Link to knitted PDF** : https://github.com/GreeshmaGopinathan/ML_Assignments_v1/blob/main/ARules3.pdf
 
 **Link to code** : https://github.com/GreeshmaGopinathan/ML_Assignments_v1/blob/main/8.%20ARules_V1.Rmd
 
