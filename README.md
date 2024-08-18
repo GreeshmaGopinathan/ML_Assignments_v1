@@ -11,7 +11,7 @@
 #### Exercise 2: Wrangling the Billboard Top 100
 **Programming Language** : Python
 
-**Link to code** : 
+**Link to code** : https://github.com/GreeshmaGopinathan/ML_Assignments_v1/blob/main/2.%20Data_Wrangling.ipynb
 ****
 #### Exercise 3: Visual story telling part 1: green buildings
 **Programming Language** : Python
