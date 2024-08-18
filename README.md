@@ -6,7 +6,7 @@
 #### Exercise 1: Probability Practice
 **Programming Language** : R Markdown
 
-**Link to code** : 
+**Link to code** : [a link](https://github.com/user/repo/blob/branch/other_file.md)
 ****
 #### Exercise 2: Wrangling the Billboard Top 100
 **Programming Language** : Python
