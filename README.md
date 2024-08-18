@@ -6,7 +6,7 @@
 #### Exercise 1: Probability Practice
 **Programming Language** : R Markdown
 
-**Link to code** : [a link](https://github.com/GreeshmaGopinathan/ML_Assignments_v1/blob/main/1.Assignment1.Rmd)
+**Link to code** : [Assignment 1](https://github.com/GreeshmaGopinathan/ML_Assignments_v1/blob/main/1.Assignment1.Rmd)
 ****
 #### Exercise 2: Wrangling the Billboard Top 100
 **Programming Language** : Python
