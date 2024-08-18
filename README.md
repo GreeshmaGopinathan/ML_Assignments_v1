@@ -47,7 +47,7 @@
 
 **Link to code** : https://github.com/GreeshmaGopinathan/ML_Assignments_v1/blob/main/8.%20ARules_V1.Rmd
 
-**Link to Gephi**https://github.com/GreeshmaGopinathan/ML_Assignments_v1/blob/main/ARules_V1.gephi
+**Link to Gephi**: https://github.com/GreeshmaGopinathan/ML_Assignments_v1/blob/main/ARules_V1.gephi
 
 #### Exercise 9: CNN
 **Programming Language** : Python
