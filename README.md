@@ -6,6 +6,7 @@
 #### Exercise 1: Probability Practice
 **Programming Language** : R Markdown
 
+**Link to knitted pdf** : https://github.com/GreeshmaGopinathan/ML_Assignments_v1/blob/main/Assignment1.pdf
 **Link to code** : https://github.com/GreeshmaGopinathan/ML_Assignments_v1/blob/main/1.Assignment1.Rmd
 ****
 #### Exercise 2: Wrangling the Billboard Top 100
@@ -41,6 +42,7 @@
 #### Exercise 8: Association rule mining
 **Programming Language** : R Markdown
 
+**Link to knitted PDF** : https://github.com/GreeshmaGopinathan/ML_Assignments_v1/blob/main/ARules3_PDF.pdf
 **Link to code** : https://github.com/GreeshmaGopinathan/ML_Assignments_v1/blob/main/8.%20ARules_V1.Rmd
 **Link to Gephi**https://github.com/GreeshmaGopinathan/ML_Assignments_v1/blob/main/ARules_V1.gephi
 
