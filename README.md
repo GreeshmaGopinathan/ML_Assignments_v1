@@ -1,10 +1,11 @@
 # ML_Assignments_v1
-### Contributor : Greeshma Gopinathan
-### Contents : Solutions to ML Exercises
-### Date of Submission: 08/18/2024
+#### Contributor : Greeshma Gopinathan
+#### Contents : Solutions to ML Exercises
+#### Date of Submission: 08/18/2024
 ****
 #### Exercise 1: Probability Practice
 **Programming Language** : Python
+
 **Link to code** : 
 ****
 #### Exercise 2: Wrangling the Billboard Top 100
