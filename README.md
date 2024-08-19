@@ -4,11 +4,11 @@
 #### Date of Submission: 08/18/2024
 ****
 #### Exercise 1: Probability Practice
-**Programming Language** : R Markdown
+**Programming Language** : Python
 
 **Link to knitted pdf** : https://github.com/GreeshmaGopinathan/ML_Assignments_v1/blob/main/Assignment1.pdf
 
-**Link to code** : https://github.com/GreeshmaGopinathan/ML_Assignments_v1/blob/main/1.Assignment1.Rmd
+**Link to code** :https://github.com/GreeshmaGopinathan/ML_Assignments_v1/blob/main/Assignment1.ipynb
 ****
 #### Exercise 2: Wrangling the Billboard Top 100
 **Programming Language** : Python
